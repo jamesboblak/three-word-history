@@ -1,5 +1,5 @@
 ![TWH logo](./assets/TWHlogo.png)
-[github.io/three-word-history](https//nguyenjohnnyt.github.io/three-word-history)
+[github.io/three-word-history](https://jamesboblak.github.io/three-word-history/)
 
 # Three Word History
 ![TWH demo gif](./assets/demo-assets/TWH_demo.gif)
@@ -8,7 +8,7 @@
 
 Find articles from throughout time in periodical, article, and blog formats and see a graphical representation of the topic's published trending history.
 
-[Three-Word-History](https//nguyenjohnnyt.github.io/three-word-history) will simultaneously send your searchwords back in time to the earliest posted articles from GNewsAPI, as well as to the newest articles and blogposts from newsAPI, and report them for you side by side.  This perspective, along with a scatter plot of the frequency of all articles matching your searchwords over time allows you to see when the articles were trending in history, and how the information in the articles you're reading fit into the overall story's timeline in history.
+[Three-Word-History](https://jamesboblak.github.io/three-word-history/) will simultaneously send your searchwords back in time to the earliest posted articles from GNewsAPI, as well as to the newest articles and blogposts from newsAPI, and report them for you side by side.  This perspective, along with a scatter plot of the frequency of all articles matching your searchwords over time allows you to see when the articles were trending in history, and how the information in the articles you're reading fit into the overall story's timeline in history.
 
 Teachers, students, historians, writers, and researchers can quickly and easily find, qualify, and compare information as it fits into the bigger story.  
 
@@ -23,7 +23,7 @@ Teachers, students, historians, writers, and researchers can quickly and easily 
 
 ## Installation
 
-This is web applicatation will run automatically on any modern web browser with access to the internet.  It is responsive to screens of all sizes.  Simply point your browser to [github.io/three-word-history](https//nguyenjohnnyt.github.io/three-word-history)
+This is web applicatation will run automatically on any modern web browser with access to the internet.  It is responsive to screens of all sizes.  Simply point your browser to [github.io/three-word-history](https://github.com/jamesboblak/three-word-history)
 
 
 ## Usage 
@@ -51,10 +51,11 @@ As an additional feature, Three-Word-History offers a convenient search history 
 
 ## Credits
 
-Johnny Nguyen
-Cristina Tepelikian
-Peter Alexander
-James Boblak
+[Johnny Nguyen](https://github.com/NguyenJohnnyT)
+[Cristina Tepelikian](https://github.com/htepelikian)
+[Peter Alexander](https://github.com/palexander227)
+[James Boblak](https://github.com/jamesboblak)
+Please feel free to reach out to any of us about this app by clicking on any of our names to go directly to our GitHub repos.
 
 Bulma CSS Framwork
 Dimple D3 API
